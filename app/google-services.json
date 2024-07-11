@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "43691834353",
+    "project_id": "fir-ui-udacity-c6b6e",
+    "storage_bucket": "fir-ui-udacity-c6b6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43691834353:android:4937bdb3e9e18fd47aa250",
+        "android_client_info": {
+          "package_name": "org.jojo.firebase_ui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcbhBOA7txDNrxfrh_1jVzcjMJqTjIqMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
