@@ -12,7 +12,20 @@
           "package_name": "org.jojo.firebase_ui"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "43691834353-t457b6aoemd2pdqnquahqau4j91ed9vk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.jojo.firebase_ui",
+            "certificate_hash": "6f59ec479f472c73a912f2cdb1f9c71778bf47c9"
+          }
+        },
+        {
+          "client_id": "43691834353-uv22qgmqhdf8u3s0k97c9n14egrslbs7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyAcbhBOA7txDNrxfrh_1jVzcjMJqTjIqMM"
@@ -20,7 +33,12 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43691834353-uv22qgmqhdf8u3s0k97c9n14egrslbs7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
